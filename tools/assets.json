@@ -1,0 +1,467 @@
+[
+ {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/6aaba3fb468200bfc0c27ca2/6ab2a429154db7ebec0e26a7_Studio_Day_White_0000.webp",
+  "dest": "assets/lamp/Studio_Day_White_0000.webp",
+  "kind": "keep"
+ },
+ {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/6aaba3fb468200bfc0c27ca2/6ab2a428b6d1de1a8e732ac4_Studio_Day_White_0001.webp",
+  "dest": "assets/lamp/Studio_Day_White_0001.webp",
+  "kind": "keep"
+ },
+ {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/6aaba3fb468200bfc0c27ca2/6ab2a42978aed69460127b30_Studio_Day_White_0002.webp",
+  "dest": "assets/lamp/Studio_Day_White_0002.webp",
+  "kind": "keep"
+ },
+ {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/6aaba3fb468200bfc0c27ca2/6ab2a429fb1be3d699b630d7_Studio_Day_White_Off_0000.webp",
+  "dest": "assets/lamp/Studio_Day_White_Off_0000.webp",
+  "kind": "keep"
+ },
+ {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/6aaba3fb468200bfc0c27ca2/6ab2a429f593c3c6f5867819_Studio_Day_White_Off_0001.webp",
+  "dest": "assets/lamp/Studio_Day_White_Off_0001.webp",
+  "kind": "keep"
+ },
+ {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/6aaba3fb468200bfc0c27ca2/6ab2a4299b519f6182e7e0e8_Studio_Day_White_Off_0002.webp",
+  "dest": "assets/lamp/Studio_Day_White_Off_0002.webp",
+  "kind": "keep"
+ },
+ {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/6aaba3fb468200bfc0c27ca2/6ab2a428bdba746b145102f3_Studio_Day_Orange_0000.webp",
+  "dest": "assets/lamp/Studio_Day_Orange_0000.webp",
+  "kind": "keep"
+ },
+ {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/6aaba3fb468200bfc0c27ca2/6ab2a427c9d966a85e97ed51_Studio_Day_Orange_0001.webp",
+  "dest": "assets/lamp/Studio_Day_Orange_0001.webp",
+  "kind": "keep"
+ },
+ {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/6aaba3fb468200bfc0c27ca2/6ab2a4278d5bcc5bc2b910e3_Studio_Day_Orange_0002.webp",
+  "dest": "assets/lamp/Studio_Day_Orange_0002.webp",
+  "kind": "keep"
+ },
+ {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/6aaba3fb468200bfc0c27ca2/6ab2a428de0167052b894e21_Studio_Day_Orange_Off_0000.webp",
+  "dest": "assets/lamp/Studio_Day_Orange_Off_0000.webp",
+  "kind": "keep"
+ },
+ {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/6aaba3fb468200bfc0c27ca2/6ab2a4278453023a4d4594cf_Studio_Day_Orange_Off_0001.webp",
+  "dest": "assets/lamp/Studio_Day_Orange_Off_0001.webp",
+  "kind": "keep"
+ },
+ {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/6aaba3fb468200bfc0c27ca2/6ab2a4288453023a4d4594ee_Studio_Day_Orange_Off_0002.webp",
+  "dest": "assets/lamp/Studio_Day_Orange_Off_0002.webp",
+  "kind": "keep"
+ },
+ {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/6aaba3fb468200bfc0c27ca2/6ab2a4289b53a24c92b765f3_Studio_Day_Red_0000.webp",
+  "dest": "assets/lamp/Studio_Day_Red_0000.webp",
+  "kind": "keep"
+ },
+ {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/6aaba3fb468200bfc0c27ca2/6ab2a427d2ca2fafb3cc7d40_Studio_Day_Red_0001.webp",
+  "dest": "assets/lamp/Studio_Day_Red_0001.webp",
+  "kind": "keep"
+ },
+ {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/6aaba3fb468200bfc0c27ca2/6ab2a4289662142cc3fcd64a_Studio_Day_Red_0002.webp",
+  "dest": "assets/lamp/Studio_Day_Red_0002.webp",
+  "kind": "keep"
+ },
+ {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/6aaba3fb468200bfc0c27ca2/6ab2a4283a02145729da9d22_Studio_Day_Red_Off_0000.webp",
+  "dest": "assets/lamp/Studio_Day_Red_Off_0000.webp",
+  "kind": "keep"
+ },
+ {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/6aaba3fb468200bfc0c27ca2/6ab2a4286018d4edb0b9464e_Studio_Day_Red_Off_0001.webp",
+  "dest": "assets/lamp/Studio_Day_Red_Off_0001.webp",
+  "kind": "keep"
+ },
+ {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/6aaba3fb468200bfc0c27ca2/6ab2a42878865722bbadb5a8_Studio_Day_Red_Off_0002.webp",
+  "dest": "assets/lamp/Studio_Day_Red_Off_0002.webp",
+  "kind": "keep"
+ },
+ {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/6aaba3fb468200bfc0c27ca2/6ab2a4298453023a4d4595d9_Studio_Day_Terracotta_0000.webp",
+  "dest": "assets/lamp/Studio_Day_Terracotta_0000.webp",
+  "kind": "keep"
+ },
+ {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/6aaba3fb468200bfc0c27ca2/6ab2a428de0167052b894e53_Studio_Day_Terracotta_0001.webp",
+  "dest": "assets/lamp/Studio_Day_Terracotta_0001.webp",
+  "kind": "keep"
+ },
+ {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/6aaba3fb468200bfc0c27ca2/6ab2a4286272af36bc19df95_Studio_Day_Terracotta_0002.webp",
+  "dest": "assets/lamp/Studio_Day_Terracotta_0002.webp",
+  "kind": "keep"
+ },
+ {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/6aaba3fb468200bfc0c27ca2/6ab2a429bbd5893f86e07d5f_Studio_Day_Terracotta_Off_0000.webp",
+  "dest": "assets/lamp/Studio_Day_Terracotta_Off_0000.webp",
+  "kind": "keep"
+ },
+ {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/6aaba3fb468200bfc0c27ca2/6ab2a429a9970a20d514f277_Studio_Day_Terracotta_Off_0001.webp",
+  "dest": "assets/lamp/Studio_Day_Terracotta_Off_0001.webp",
+  "kind": "keep"
+ },
+ {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/6aaba3fb468200bfc0c27ca2/6ab2a429cc2537da43a36c1b_Studio_Day_Terracotta_Off_0002.webp",
+  "dest": "assets/lamp/Studio_Day_Terracotta_Off_0002.webp",
+  "kind": "keep"
+ },
+ {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/6aaba3fb468200bfc0c27ca2/6ab2a42830c8d49f3593c6e8_Studio_Day_SakuraPink_0000.webp",
+  "dest": "assets/lamp/Studio_Day_SakuraPink_0000.webp",
+  "kind": "keep"
+ },
+ {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/6aaba3fb468200bfc0c27ca2/6ab2a42eab341a346cf2171b_Studio_Day_SakuraPink_0001.webp",
+  "dest": "assets/lamp/Studio_Day_SakuraPink_0001.webp",
+  "kind": "keep"
+ },
+ {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/6aaba3fb468200bfc0c27ca2/6ab2a4282bf3e569178d8eed_Studio_Day_SakuraPink_0002.webp",
+  "dest": "assets/lamp/Studio_Day_SakuraPink_0002.webp",
+  "kind": "keep"
+ },
+ {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/6aaba3fb468200bfc0c27ca2/6ab2a42ac7b8aa1488ffd7b5_Studio_Day_SakuraPink_Off_0000.webp",
+  "dest": "assets/lamp/Studio_Day_SakuraPink_Off_0000.webp",
+  "kind": "keep"
+ },
+ {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/6aaba3fb468200bfc0c27ca2/6ab2a42eab341a346cf21720_Studio_Day_SakuraPink_Off_0001.webp",
+  "dest": "assets/lamp/Studio_Day_SakuraPink_Off_0001.webp",
+  "kind": "keep"
+ },
+ {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/6aaba3fb468200bfc0c27ca2/6ab2a42978aed69460127b2c_Studio_Day_SakuraPink_Off_0002.webp",
+  "dest": "assets/lamp/Studio_Day_SakuraPink_Off_0002.webp",
+  "kind": "keep"
+ },
+ {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/6aaba3fb468200bfc0c27ca2/6ab2a428d2ca2fafb3cc7d5d_Studio_Day_Caramel_0000.webp",
+  "dest": "assets/lamp/Studio_Day_Caramel_0000.webp",
+  "kind": "keep"
+ },
+ {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/6aaba3fb468200bfc0c27ca2/6ab2a42730c8d49f3593c69e_Studio_Day_Caramel_0001.webp",
+  "dest": "assets/lamp/Studio_Day_Caramel_0001.webp",
+  "kind": "keep"
+ },
+ {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/6aaba3fb468200bfc0c27ca2/6ab2a4279b5ecd166f8a1748_Studio_Day_Caramel_0002.webp",
+  "dest": "assets/lamp/Studio_Day_Caramel_0002.webp",
+  "kind": "keep"
+ },
+ {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/6aaba3fb468200bfc0c27ca2/6ab2a42cab341a346cf21483_Studio_Day_Caramel_Off_0000.webp",
+  "dest": "assets/lamp/Studio_Day_Caramel_Off_0000.webp",
+  "kind": "keep"
+ },
+ {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/6aaba3fb468200bfc0c27ca2/6ab2a42878865722bbadb4e1_Studio_Day_Caramel_Off_0001.webp",
+  "dest": "assets/lamp/Studio_Day_Caramel_Off_0001.webp",
+  "kind": "keep"
+ },
+ {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/6aaba3fb468200bfc0c27ca2/6ab2a4282bf3e569178d8e8d_Studio_Day_Caramel_Off_0002.webp",
+  "dest": "assets/lamp/Studio_Day_Caramel_Off_0002.webp",
+  "kind": "keep"
+ },
+ {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/6aaba3fb468200bfc0c27ca2/6ab2a4283192b8fd20e7921a_Studio_Day_Purple_0000.webp",
+  "dest": "assets/lamp/Studio_Day_Purple_0000.webp",
+  "kind": "keep"
+ },
+ {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/6aaba3fb468200bfc0c27ca2/6ab2a428cc2537da43a36b72_Studio_Day_Purple_0001.webp",
+  "dest": "assets/lamp/Studio_Day_Purple_0001.webp",
+  "kind": "keep"
+ },
+ {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/6aaba3fb468200bfc0c27ca2/6ab2a4272bf3e569178d8df8_Studio_Day_Purple_0002.webp",
+  "dest": "assets/lamp/Studio_Day_Purple_0002.webp",
+  "kind": "keep"
+ },
+ {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/6aaba3fb468200bfc0c27ca2/6ab2a428fa74ab79fea4bef2_Studio_Day_Purple_Off_0000.webp",
+  "dest": "assets/lamp/Studio_Day_Purple_Off_0000.webp",
+  "kind": "keep"
+ },
+ {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/6aaba3fb468200bfc0c27ca2/6ab2a4284723beac263c66c0_Studio_Day_Purple_Off_0001.webp",
+  "dest": "assets/lamp/Studio_Day_Purple_Off_0001.webp",
+  "kind": "keep"
+ },
+ {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/6aaba3fb468200bfc0c27ca2/6ab2a4287dad6a3b57416874_Studio_Day_Purple_Off_0002.webp",
+  "dest": "assets/lamp/Studio_Day_Purple_Off_0002.webp",
+  "kind": "keep"
+ },
+ {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/6aaba3fb468200bfc0c27ca2/6ab2a4299b53a24c92b76684_Studio_Day_Yellow_0000.webp",
+  "dest": "assets/lamp/Studio_Day_Yellow_0000.webp",
+  "kind": "keep"
+ },
+ {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/6aaba3fb468200bfc0c27ca2/6ab2a4295c11eefedb215e04_Studio_Day_Yellow_0001.webp",
+  "dest": "assets/lamp/Studio_Day_Yellow_0001.webp",
+  "kind": "keep"
+ },
+ {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/6aaba3fb468200bfc0c27ca2/6ab2a429bbd5893f86e07d3d_Studio_Day_Yellow_0002.webp",
+  "dest": "assets/lamp/Studio_Day_Yellow_0002.webp",
+  "kind": "keep"
+ },
+ {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/6aaba3fb468200bfc0c27ca2/6ab2a42954468daa257ded4d_Studio_Day_Yellow_Off_0000.webp",
+  "dest": "assets/lamp/Studio_Day_Yellow_Off_0000.webp",
+  "kind": "keep"
+ },
+ {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/6aaba3fb468200bfc0c27ca2/6ab2a429701854046b368d05_Studio_Day_Yellow_Off_0001.webp",
+  "dest": "assets/lamp/Studio_Day_Yellow_Off_0001.webp",
+  "kind": "keep"
+ },
+ {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/6aaba3fb468200bfc0c27ca2/6ab2a428aa4fb305643ee4fc_Studio_Day_Yellow_Off_0002.webp",
+  "dest": "assets/lamp/Studio_Day_Yellow_Off_0002.webp",
+  "kind": "keep"
+ },
+ {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/6aaba3fb468200bfc0c27ca2/6ab2b0268453023a4d4d4335_Room_A_Day_White_Wide.webp",
+  "dest": "assets/lamp/Room_A_Day_White_Wide.webp",
+  "kind": "keep"
+ },
+ {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/6aaba3fb468200bfc0c27ca2/6ab2b026074d3ad4723a456c_Room_A_Day_White_Close.webp",
+  "dest": "assets/lamp/Room_A_Day_White_Close.webp",
+  "kind": "keep"
+ },
+ {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/6aaba3fb468200bfc0c27ca2/6ab2b027d887eb261cb36c69_Room_A_Day_Orange_Wide.webp",
+  "dest": "assets/lamp/Room_A_Day_Orange_Wide.webp",
+  "kind": "keep"
+ },
+ {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/6aaba3fb468200bfc0c27ca2/6ab2b0262bf3e569179545a4_Room_A_Day_Orange_Close.webp",
+  "dest": "assets/lamp/Room_A_Day_Orange_Close.webp",
+  "kind": "keep"
+ },
+ {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/6aaba3fb468200bfc0c27ca2/6ab2b026fa74ab79feac9c67_Room_A_Day_Red_Wide.webp",
+  "dest": "assets/lamp/Room_A_Day_Red_Wide.webp",
+  "kind": "keep"
+ },
+ {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/6aaba3fb468200bfc0c27ca2/6ab2b026bdba746b14584f35_Room_A_Day_Red_Close.webp",
+  "dest": "assets/lamp/Room_A_Day_Red_Close.webp",
+  "kind": "keep"
+ },
+ {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/6aaba3fb468200bfc0c27ca2/6ab2b026b6d1de1a8e7b17a4_Room_A_Day_Terracotta_Wide.webp",
+  "dest": "assets/lamp/Room_A_Day_Terracotta_Wide.webp",
+  "kind": "keep"
+ },
+ {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/6aaba3fb468200bfc0c27ca2/6ab2b02690884bdf507a9665_Room_A_Day_Terracotta_Close.webp",
+  "dest": "assets/lamp/Room_A_Day_Terracotta_Close.webp",
+  "kind": "keep"
+ },
+ {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/6aaba3fb468200bfc0c27ca2/6ab2b0264122be6a8ad47829_Room_A_Day_SakuraPink_Wide.webp",
+  "dest": "assets/lamp/Room_A_Day_SakuraPink_Wide.webp",
+  "kind": "keep"
+ },
+ {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/6aaba3fb468200bfc0c27ca2/6ab2b02630c8d49f359b56af_Room_A_Day_SakuraPink_Close.webp",
+  "dest": "assets/lamp/Room_A_Day_SakuraPink_Close.webp",
+  "kind": "keep"
+ },
+ {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/6aaba3fb468200bfc0c27ca2/6ab2b026a9970a20d51cb1fa_Room_A_Day_Caramel_Wide.webp",
+  "dest": "assets/lamp/Room_A_Day_Caramel_Wide.webp",
+  "kind": "keep"
+ },
+ {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/6aaba3fb468200bfc0c27ca2/6ab2b026d4e1a2fdfd6e109a_Room_A_Day_Caramel_Close.webp",
+  "dest": "assets/lamp/Room_A_Day_Caramel_Close.webp",
+  "kind": "keep"
+ },
+ {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/6aaba3fb468200bfc0c27ca2/6ab2b0266018d4edb0c10815_Room_A_Day_Purple_Wide.webp",
+  "dest": "assets/lamp/Room_A_Day_Purple_Wide.webp",
+  "kind": "keep"
+ },
+ {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/6aaba3fb468200bfc0c27ca2/6ab2b026fb1be3d699bde395_Room_A_Day_Purple_Close.webp",
+  "dest": "assets/lamp/Room_A_Day_Purple_Close.webp",
+  "kind": "keep"
+ },
+ {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/6aaba3fb468200bfc0c27ca2/6ab2b0269b5ecd166f91d6cb_Room_A_Day_Yellow_Wide.webp",
+  "dest": "assets/lamp/Room_A_Day_Yellow_Wide.webp",
+  "kind": "keep"
+ },
+ {
+  "url": "https://s3.amazonaws.com/webflow-prod-assets/6aaba3fb468200bfc0c27ca2/6ab2b0269b53a24c92bf2038_Room_A_Day_Yellow_Close.webp",
+  "dest": "assets/lamp/Room_A_Day_Yellow_Close.webp",
+  "kind": "keep"
+ },
+ {
+  "url": "https://cdn.prod.website-files.com/6aaba3fb468200bfc0c27ca2/6ab161c773e29a69d4bbb5ba_acfa342c3af8506f078a517d47050716_zuil-logo-purple.svg",
+  "dest": "assets/zuil-logo-purple.svg",
+  "kind": "keep"
+ },
+ {
+  "url": "https://cdn.prod.website-files.com/6aaba3fb468200bfc0c27ca2/6aaeca196f7fc58f0e1c8b49_257c5abf670b806dc62311fd61628e2d_01-the_base.webp",
+  "dest": "assets/story/01-the_base.webp",
+  "kind": "story"
+ },
+ {
+  "url": "https://cdn.prod.website-files.com/6aaba3fb468200bfc0c27ca2/6aaeca19238f22485e4317f5_35d138a25bf05e30eb3531e6dd78fdd6_02-the_dowels.webp",
+  "dest": "assets/story/02-the_dowels.webp",
+  "kind": "story"
+ },
+ {
+  "url": "https://cdn.prod.website-files.com/6aaba3fb468200bfc0c27ca2/6aaeca19f0e1dfdaf98c865f_124535fc425ae2c85d4ef0caece4baa4_03-the_diffuser.jpg",
+  "dest": "assets/story/03-the_diffuser.webp",
+  "kind": "story"
+ },
+ {
+  "url": "https://cdn.prod.website-files.com/6aaba3fb468200bfc0c27ca2/6aaedd98c0da5e2926c5fc19_20260826_213608.webp",
+  "dest": "assets/making/20260826_213608.webp",
+  "kind": "making"
+ },
+ {
+  "url": "https://cdn.prod.website-files.com/6aaba3fb468200bfc0c27ca2/6aaedd98b5558e4668ec7427_20260826_181526.webp",
+  "dest": "assets/making/20260826_181526.webp",
+  "kind": "making"
+ },
+ {
+  "url": "https://cdn.prod.website-files.com/6aaba3fb468200bfc0c27ca2/6aaedd98f92678907ed1c3f2_20260826_181658.webp",
+  "dest": "assets/making/20260826_181658.webp",
+  "kind": "making"
+ },
+ {
+  "url": "https://cdn.prod.website-files.com/6aaba3fb468200bfc0c27ca2/6aaedd9802118b905e0ccd74_20260826_182113.webp",
+  "dest": "assets/making/20260826_182113.webp",
+  "kind": "making"
+ },
+ {
+  "url": "https://cdn.prod.website-files.com/6aaba3fb468200bfc0c27ca2/6aaedd98f92678907ed1c3ca_20260827_082022.webp",
+  "dest": "assets/making/20260827_082022.webp",
+  "kind": "making"
+ },
+ {
+  "url": "https://cdn.prod.website-files.com/6aaba3fb468200bfc0c27ca2/6aaedd991d11dfe0e56e91ff_20260901_232814.webp",
+  "dest": "assets/making/20260901_232814.webp",
+  "kind": "making"
+ },
+ {
+  "url": "https://cdn.prod.website-files.com/6aaba3fb468200bfc0c27ca2/6aaedd982571b68a1a420d4d_20260902_145556.webp",
+  "dest": "assets/making/20260902_145556.webp",
+  "kind": "making"
+ },
+ {
+  "url": "https://cdn.prod.website-files.com/6aaba3fb468200bfc0c27ca2/6aaedd9822070b673d72172d_20260902_145602.webp",
+  "dest": "assets/making/20260902_145602.webp",
+  "kind": "making"
+ },
+ {
+  "url": "https://cdn.prod.website-files.com/6aaba3fb468200bfc0c27ca2/6aaedd986d44e135e2604a7f_20260906_104153.webp",
+  "dest": "assets/making/20260906_104153.webp",
+  "kind": "making"
+ },
+ {
+  "url": "https://cdn.prod.website-files.com/6aaba3fb468200bfc0c27ca2/6aaedd9828f90e0452b84be3_20260906_134107.webp",
+  "dest": "assets/making/20260906_134107.webp",
+  "kind": "making"
+ },
+ {
+  "url": "https://cdn.prod.website-files.com/6aaba3fb468200bfc0c27ca2/6aaedd98b77721e57a08f7e9_20260911_203028.webp",
+  "dest": "assets/making/20260911_203028.webp",
+  "kind": "making"
+ },
+ {
+  "url": "https://cdn.prod.website-files.com/6aaba3fb468200bfc0c27ca2/6aaedd9980c6c19e78899693_20260913_132020.webp",
+  "dest": "assets/making/20260913_132020.webp",
+  "kind": "making"
+ },
+ {
+  "url": "https://cdn.prod.website-files.com/6aaba3fb468200bfc0c27ca2/6aaedd992afee1100d2ebf49_20260913_132042.webp",
+  "dest": "assets/making/20260913_132042.webp",
+  "kind": "making"
+ },
+ {
+  "url": "https://cdn.prod.website-files.com/6aaba3fb468200bfc0c27ca2/6aaedd997fc14af3a246cfd0_20260913_132053.webp",
+  "dest": "assets/making/20260913_132053.webp",
+  "kind": "making"
+ },
+ {
+  "url": "https://cdn.prod.website-files.com/6aaba3fb468200bfc0c27ca2/6aaedd995129ce16cefd5a09_20260913_132128.webp",
+  "dest": "assets/making/20260913_132128.webp",
+  "kind": "making"
+ },
+ {
+  "url": "https://cdn.prod.website-files.com/6aaba3fb468200bfc0c27ca2/6aaedd98fe1af8b313c68d1a_20260914_215119.webp",
+  "dest": "assets/making/20260914_215119.webp",
+  "kind": "making"
+ },
+ {
+  "url": "https://cdn.prod.website-files.com/6aaba3fb468200bfc0c27ca2/6aaedd988838d4640a4394d3_20260915_093951.webp",
+  "dest": "assets/making/20260915_093951.webp",
+  "kind": "making"
+ },
+ {
+  "url": "https://cdn.prod.website-files.com/6aaba3fb468200bfc0c27ca2/6aaedd99c9a23c3054bed427_20260916_190447.webp",
+  "dest": "assets/making/20260916_190447.webp",
+  "kind": "making"
+ },
+ {
+  "url": "https://cdn.prod.website-files.com/6aaba3fb468200bfc0c27ca2/6aaedd999860715ea7e5ca74_20260916_190519.webp",
+  "dest": "assets/making/20260916_190519.webp",
+  "kind": "making"
+ },
+ {
+  "url": "https://cdn.prod.website-files.com/6aaba3fb468200bfc0c27ca2/6aaedd98238f22485e464f90_20260916_190623.webp",
+  "dest": "assets/making/20260916_190623.webp",
+  "kind": "making"
+ },
+ {
+  "url": "https://cdn.prod.website-files.com/6aaba3fb468200bfc0c27ca2/6aaedd986f7fc58f0e21fa9f_20260916_190635.webp",
+  "dest": "assets/making/20260916_190635.webp",
+  "kind": "making"
+ },
+ {
+  "url": "https://cdn.prod.website-files.com/6aaba3fb468200bfc0c27ca2/6aaedd98188600ff4a91794d_20260916_190700.webp",
+  "dest": "assets/making/20260916_190700.webp",
+  "kind": "making"
+ },
+ {
+  "url": "https://cdn.prod.website-files.com/6aaba3fb468200bfc0c27ca2/6aaedc5160ae4e81d9a04d0a_20260916_191316.webp",
+  "dest": "assets/making/20260916_191316.webp",
+  "kind": "making"
+ },
+ {
+  "url": "https://cdn.prod.website-files.com/6aaba3fb468200bfc0c27ca2/6aaedd987ded0efcbe025fb0_20260916_210843.webp",
+  "dest": "assets/making/20260916_210843.webp",
+  "kind": "making"
+ },
+ {
+  "url": "https://cdn.prod.website-files.com/6aaba3fb468200bfc0c27ca2/6ab1629981b6468c52dd158e_zuil-favicon.png",
+  "dest": "assets/favicon.png",
+  "kind": "keep"
+ }
+]
