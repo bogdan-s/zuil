@@ -55,7 +55,7 @@ p { margin-bottom: 10px; font-size: 1.3em; line-height: 1.4; }
 .zuil-story-panel.zuil-story-panel-right { align-items: flex-end; }
 .zuil-story-media { object-fit: cover; width: 100%; max-width: 100%; height: auto; position: absolute; inset: 0px; }
 .zuil-story-text { z-index: 2; text-align: left; width: auto; max-width: none; padding: 0px; display: block; position: absolute; bottom: 24px; left: 24px; right: 24px; }
-.zuil-story-text.zuil-story-text-right { text-align: right; display: block; position: absolute; inset: 50% 0% 0%; }
+.zuil-story-text.zuil-story-text-right { text-align: right; display: block; position: absolute; inset: 50% 24px 0% 24px; }
 .zuil-story-text.zuil-story-text-top { top: 24px; bottom: auto; }
 .zuil-making-section { padding: 48px 0px 0px; }
 .zuil-making-head { max-width: 1200px; margin: 69px auto 40px; }
